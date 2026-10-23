@@ -6,7 +6,7 @@
 
 **Une assistante IA qui tourne entièrement sur votre PC. Vos conversations restent chez vous, et chaque réponse dit d'où elle vient.**
 
-[🌐 Site](https://athena-ia-locale.com) · [⬇️ Télécharger l'alpha](https://github.com/idstudio-athena/athena-local-ia/releases) · [▶️ YouTube](https://www.youtube.com/@IDStudioIA) · [☕ Soutenir sur Ko-fi](https://ko-fi.com/idstudioia)
+[🌐 Site](https://athena-ia-locale.com) · [⬇️ Télécharger l'alpha](https://github.com/idstudio-athena/athena-local-ia/releases) · [▶️ YouTube](https://www.youtube.com/@IDStudioIA) · [💬 Discord](https://discord.gg/NquWmqwH6c) · [☕ Soutenir sur Ko-fi](https://ko-fi.com/idstudioia)
 
 </div>
 
