@@ -26,7 +26,7 @@
 
 ### ☕ Soutenir Athéna
 
-Athéna est développée par une seule personne. Chaque don, même petit, aide notre travail et nous motive à continuer : [ko-fi.com/idstudioia](https://ko-fi.com/idstudioia).
+Athéna est développée par ID Studio IA, un studio indépendant. Chaque don, même petit, aide notre travail et nous motive à continuer : [ko-fi.com/idstudioia](https://ko-fi.com/idstudioia).
 
 ---
 
